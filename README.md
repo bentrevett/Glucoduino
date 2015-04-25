@@ -6,11 +6,11 @@ It requires a USB host shield and the [USB host library](https://github.com/feli
 
 ## Installation
 
-*Place this folder into your Arduino > Libraries directory.
-*After doing so, launch the Arduino IDE and the code can be accessed via File > Examples > glucoduino > glucoduino_read.
-*Upload the code to the Arduino and open the serial monitor.
-*Once the code is running ("Wating for USB to be connected..." should be repeatedly printed) insert the glucometer into the USB host shield.
-*The glucometer's header and readings will be displayed on the serial monitor.
+1. Place this folder into your Arduino > Libraries directory.
+2. After doing so, launch the Arduino IDE and the code can be accessed via File > Examples > glucoduino > glucoduino_read.
+3. Upload the code to the Arduino and open the serial monitor.
+4. Once the code is running ("Wating for USB to be connected..." should be repeatedly printed) insert the glucometer into the USB host shield.
+5. The glucometer's header and readings will be displayed on the serial monitor.
 
 ## Notes
 
