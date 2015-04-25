@@ -14,5 +14,5 @@ It requires a USB host shield and the [USB host library](https://github.com/feli
 
 ## Notes
 
-Only works with the Contour NEXT USB and Contour NEXT Link glucometers.
-Has only been tested with Arduino IDE version 1.0.6. 
+- Only works with the Contour NEXT USB and Contour NEXT Link glucometers.
+- Has only been tested with Arduino IDE version 1.0.6. 
